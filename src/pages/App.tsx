@@ -36,7 +36,7 @@ const BodyWrapper = styled.div`
   overflow-x: hidden;
   z-index: 1;
   justify-content: center;
-  background-image: url('/images/group-pancake.svg');
+  background-image: url('https://bscscan.com/token/images/giftedhands_32.png');
   background-repeat: no-repeat;
   background-position: bottom 24px center;
   background-size: 90%;
